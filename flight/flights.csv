@@ -1,0 +1,17 @@
+index,air_company,origin,destination,departure_time,travel_duration,number_of_transfers,arrival_time,price
+1,"Wizz Air, ITA Airways",KRK,FCO,12:50,8h 20m,"1 stop
+MXP-LIN",21:10,£76
+1,"Ryanair, ITA Airways",KRK,FCO,06:00,9h 10m,"1 stop
+BGY-LIN",15:10,£109
+1,"Wizz Air, Vueling",KRK,FCO,06:20,6h 35m,"1 stop
+WAW",13:50,£73
+1,Ryanair,KRK,FCO,08:30,4h 30m,"1 stop
+VIE",13:00,£89
+1,Lufthansa,KRK,FCO,06:00,3h 55m,"1 stop
+MUC",09:55,£117
+1,"Ryanair, Wizz Air Malta",KRK,FCO,12:55,9h 45m,"1 stop
+TIA",22:40,£59
+1,"Wizz Air, ITA Airways",KRK,FCO,12:50,8h 20m,"1 stop
+MXP-LIN",21:10,£76
+1,Ryanair,KRK,FCO,17:25,5h 35m,"1 stop
+CTA",23:00,£101
